@@ -6,6 +6,12 @@ public class Demo1 {
 	  {
 		  System.out.println("demo");
 	  }
+	  
+	  public void drum1()
+	  {
+		  System.out.println("demo1");
+	  }
+
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -15,6 +21,8 @@ public class Demo1 {
 		int z=i+j;
 		
 		System.out.println(z);
+		
+		
 	
 
 	}
